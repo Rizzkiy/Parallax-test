@@ -1,0 +1,8 @@
+{
+  "name": "Zenith Cyber-Anime Landing",
+  "description": "A high-fidelity anime-themed landing page featuring a multi-layered parallax scrolling engine, glassmorphism UI, and a Gemini-powered lore assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
